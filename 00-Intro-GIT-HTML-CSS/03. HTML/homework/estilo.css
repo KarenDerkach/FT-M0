@@ -16,15 +16,17 @@ body {
     height: 600px;
     background-color: rgba(248, 239, 239, 0.76);
     border: 10px solid rgb(251, 255, 5);
-    padding: 50px;
+    padding: 50px; 
     
 }
 
 #spanId {
     font-size: 18px;
-    margin: 5px ;
-    background-color: honeydew;
+    margin: 50px ;
     width: 100%;
+}
+.divClass {
+    background-color: rgba(255, 255, 0, 0.514);
 }
 h4{
     font-size: 18px;
@@ -34,6 +36,8 @@ h4{
 
 }
 h1 {
+    color: powderblue;
+    font-size: 80px;
     background-color: rgba(217, 255, 4, 0.575)  ;
     height: 100px;
     width: 100% ;
