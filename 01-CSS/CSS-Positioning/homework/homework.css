@@ -58,8 +58,3 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     display: flexbox;
     flex-direction:row-reverse;
 }
-#ejercicioSiete{
-    display: flexbox;
-    align-items: flex-end;
-    flex-direction: row-reverse;
-}
